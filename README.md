@@ -1,1 +1,1 @@
-# colorextractortest
+# ColorExtractor
